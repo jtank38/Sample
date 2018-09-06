@@ -1,0 +1,7 @@
+I first solved it with brute force! (Puzzle.py)
+Complexity should be: O(n^2)
+
+Puzzle2.py I started with deque for sorting so that bought the complexity down to O(n log n)
+
+(Disclaimer:I have also used the default sort function of python which inherently uses Timsort, its complexity being O(n log n))
+
